@@ -8,3 +8,8 @@ Most basic example of using spring beanfactory
 * two implementations of that interface can be injected.
 
 Beanfactory is very basic for more features use the application context factory instead. 
+Some extra features the Spring Application Context providers are:
+* support for i18n
+* message provision
+* resource loading
+* event publishing
